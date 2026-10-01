@@ -3,7 +3,7 @@ This document studies the thermal conductivity of neoprene and the impact of its
 
 # 2D Thermal Simulation of Materials with Inclusions
 
-**[Click here to view the Project Presentation](Presentation_finale.pdf)**
+**[Click here to view the Project Presentation](TIPE_Presentation_finale.pdf)**
 
 ## Project Description
 This project contains a Jupyter Notebook dedicated to simulating heat diffusion within a two-dimensional (2D) material. The model accounts for the presence of inclusions (such as air bubbles or neoprene beads) distributed throughout the base material. 
